@@ -1,3 +1,5 @@
+/*
+
 using System;
 
 namespace ThirdProject
@@ -39,3 +41,5 @@ Console.ReadKey();
         }
     }
 }
+
+*/
