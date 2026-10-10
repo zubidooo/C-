@@ -35,7 +35,7 @@ Console.WriteLine(d.GetType());
 Console.WriteLine(f.GetType());
 Console.WriteLine(h.GetType());
 
-Console.WriteLine(j.GetType());
+Console.WriteLine(j.);
 
 Console.ReadKey();
         }

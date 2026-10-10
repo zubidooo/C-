@@ -13,8 +13,6 @@ namespace SecondProject
       
          const double pi = 3.14159;     //constant variable cannot be changed
 
-         pi = 420;
-
          Console.WriteLine(pi);
 
 
