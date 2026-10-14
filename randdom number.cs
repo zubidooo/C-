@@ -1,3 +1,5 @@
+/*
+
 using System;
 
 namespace random_number
@@ -9,11 +11,13 @@ namespace random_number
             
             Random random = new Random();
 
-            random.Next(1, 100);
+            random.Next(1, 101);
 
 
-            Console.WriteLine(random.Next(1, 100));
+            Console.WriteLine(random.Next(1, 101));
             Console.ReadKey();
         }
     }
 }
+
+*/
